@@ -31,7 +31,7 @@ The project follows an end-to-end data analysis process:
 
 This project uses a customer shopping behavior dataset obtained from the kaggle.
 
-**Data Source:** [customer_shopping_behavior.csv]()
+**Data Source:** [customer_shopping_behavior.csv](https://github.com/kavana-ar/Customer-Shopping-Behavior-Analysis/blob/main/customer_shopping_behavior.csv)
 
 ## Technologies
 
@@ -62,13 +62,13 @@ Files in the following stages:
 
 Collected customer shopping behavior data containing customer, product, purchase, payment, and transaction details.
 
-Link to the script: [customer_shopping_behavior.csv]()
+Link to the script: [customer_shopping_behavior.csv](https://github.com/kavana-ar/Customer-Shopping-Behavior-Analysis/blob/main/customer_shopping_behavior.csv)
 
 ## Step 2: Data Validation and Preparation
 
 Cleaned and prepared the data by handling missing values, duplicates, incorrect data types, and inconsistent entries for analysis.
 
-Link to the script: [Customer_Shopping_Behavior_Analysis.ipynb]()
+Link to the script: [Customer_Shopping_Behavior_Analysis.ipynb](https://github.com/kavana-ar/Customer-Shopping-Behavior-Analysis/blob/main/Customer_Shopping_Behaviour_Analysis.ipynb)
 
 ## Step 3: Data Storage
 
@@ -81,39 +81,11 @@ Python was used to connect to PostgreSQL and load the datasets into the database
 
 Analyzed customer shopping data using SQL to identify sales trends, customer behavior, product performance, and key business insights.
 
-Link to the script: [customer_behavior_analysis.sql]()
-
-The SQL analysis includes the following steps.
-
-## 1. Data Exploration
-
-First, I viewed the available data in both tables:
-
-<img width="1307" height="615" alt="Screenshot 2026-08-30 122932" src="https://github.com/user-attachments/assets/331bfecf-1772-4a3d-95a2-d5b5ac1122a8" />
-
-
-## 2. Latest Four Completed Earnings Reports
-<img width="1055" height="533" alt="Screenshot 2026-08-30 123903" src="https://github.com/user-attachments/assets/0153c5ca-a784-4cb0-831f-64de4677c39b" />
-
-
-## 3. Stock Price on Each Earnings Date
-<img width="1062" height="531" alt="Screenshot 2026-08-30 123934" src="https://github.com/user-attachments/assets/82cd0193-f05f-4523-a668-e5e3f01a700c" />
-
-
-## 4. Stock Price Three Trading Days Before Earnings
-<img width="1053" height="535" alt="Screenshot 2026-08-30 124028" src="https://github.com/user-attachments/assets/231d5b63-8c8c-4ca0-addc-e7e4f12b6ec1" />
-
-
-## 5. Earnings-Day Closing Price
-<img width="1066" height="548" alt="Screenshot 2026-08-30 124108" src="https://github.com/user-attachments/assets/ebc7fdb1-291f-4173-b06f-d4d0db6742cb" />
-
+Link to the script: [customer_behavior_analysis.sql](https://github.com/kavana-ar/Customer-Shopping-Behavior-Analysis/blob/main/customer_behaviour_analysis.sql)
 
 ## Step 5: Power BI Dashboard
 
-After completing the SQL analysis, I developed an interactive dashboard using Power BI. which you can view [here](https://github.com/kavana-ar/Financial-Modeling-Prep/blob/main/FMP_dashboard%20_1.pbix)
-
-<img width="1358" height="656" alt="Screenshot 2026-08-30 125016" src="https://github.com/user-attachments/assets/3cef372d-850f-4441-be83-2959233e2426" />
-<img width="1346" height="501" alt="Screenshot 2026-08-30 125042" src="https://github.com/user-attachments/assets/a09dede3-b832-422c-aa23-5829ea971a63" />
+After completing the SQL analysis, I developed an interactive dashboard using Power BI. which you can view [here](https://github.com/kavana-ar/Customer-Shopping-Behavior-Analysis/blob/main/customer_behavior_dashboard.pbix)
 
 
 
