@@ -47,7 +47,7 @@ The following technologies were used to build this project:
 
 The project follows the workflow below:
 
-<img width="1665" height="836" alt="ChatGPT Image Aug 30, 2026, 02_00_29 PM" src="https://github.com/user-attachments/assets/3ae45b51-f7d3-47a2-98cf-616cee28b539" />
+<img width="1774" height="887" alt="ChatGPT Image Sep 13, 2026, 01_23_43 PM" src="https://github.com/user-attachments/assets/d903d6f4-a798-4426-a39d-89c02a1b6891" />
 
 Files in the following stages:
 
